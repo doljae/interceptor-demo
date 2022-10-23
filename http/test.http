@@ -1,0 +1,11 @@
+### test1
+GET http://localhost:12345/test
+
+### test2
+GET http://localhost:12345/test2
+
+### test3
+GET http://localhost:12345/test3
+
+### test4
+GET http://localhost:12345/test4
